@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "715508159426",
+    "project_id": "simulator-hyago",
+    "storage_bucket": "simulator-hyago.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715508159426:android:f4c183e0ef5d5d3734fc5b",
+        "android_client_info": {
+          "package_name": "me.hyago.simulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715508159426-qopm3c2u25mt6thb473rdsulml4hfkr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA68xKRRmKZmhHfhajyZIEY4Ebg6S8RC2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715508159426-qopm3c2u25mt6thb473rdsulml4hfkr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
